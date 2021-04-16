@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smgrv123&theme=dark" /></br>
+![Sumrit's github stats](https://github-readme-stats.vercel.app/api?username=smgrv123&show_icons=true&theme=radical&count_private=true)</br>
 <!--
 **smgrv123/smgrv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

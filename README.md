@@ -1,4 +1,5 @@
-### Hi there 👋
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smgrv123&theme=dark" /></br>
 ![Sumrit's github stats](https://github-readme-stats.vercel.app/api?username=smgrv123&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgrv123&theme=radical)](https://github.com/smgrv123/github-readme-stats)

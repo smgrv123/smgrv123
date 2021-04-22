@@ -4,6 +4,7 @@
 ![Sumrit's github stats](https://github-readme-stats.vercel.app/api?username=smgrv123&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgrv123&theme=radical)](https://github.com/smgrv123/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=smgrv123&color=blue)
+<p><img src="https://komarev.com/ghpvc/?username=smgrv123&style=flat&color=e06c75&label=visitors"/></p>
 <!--
 **smgrv123/smgrv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

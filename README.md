@@ -13,7 +13,7 @@
 ## Languages I Use ⚡⚡
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/smgrv123)](https://github.com/smgrv123) [![React-Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/smgrv123)](https://github.com/smgrv123) [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/smgrv123)](https://gitlab.com/smgrv123) [![Axios](https://img.shields.io/badge/-Axios-02569B?style=flat&logo=axios&link=https://github.com/smgrv123)](https://github.com/smgrv123)
-<!-- [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/smgrv123)](https://github.com/smgrv123)   -->
+ [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/smgrv123)](https://github.com/smgrv123)  
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/smgrv123)](https://github.com/smgrv123)  [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/smgrv123)](https://github.com/smgrv123)[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/smgrv123)](https://gitlab.com/smgrv123) 
 
